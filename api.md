@@ -1,4 +1,4 @@
-#detail
+#Detail
 
 1.放大镜插件 
 npm i vue2.0-zoom
